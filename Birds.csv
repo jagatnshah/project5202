@@ -1,0 +1,625 @@
+English Name,Scientific Name,Globally Threatened Status,Nationally Threatened Status,Migration status,Occurrence status
+Hill Partridge ,Arborophila torqueola ,LC,LC,r,3
+Common Quail ,Coturnix coturnix ,LC,LC,r,3
+Black Francolin ,"Francolinus
+francolinus",LC,LC,r,1
+Grey Francolin ,"Francolinus
+pondicerianus",VU ,LC,r,1
+Swamp Francolin ,Francolinus gularis ,VU ,EN ,r,5
+Indian Peafowl ,Pavo cristatus ,NT ,LC,r,1
+Red Junglefowl ,Gallus gallus ,LC,LC,r,1
+Kalij Pheasant ,"Lophura
+leucomelanos",LC,LC,r,2
+Lesser Whistling Duck ,"Dendrocygna
+javanica",LC,LC,r,2
+Bar-headed Goose ,Anser indicus ,NT ,LC,w,4
+Greylag Goose ,Anser anser ,NT ,LC,w,5
+Common Goldeneye ,Bucephala clangula ,LC,LC,w,5
+Goosander ,Mergus merganser ,LC,LC,w,2
+Ruddy Shelduck ,Tadorna ferruginea ,NT ,LC,w,1
+Common Shelduck ,Tadorna tadorna ,LC,LC,w ,5
+African Comb Duck ,"Sarkidiornis
+melanotos",EN ,LC,r,5
+Cotton Pygmy-goose ,"Nettapus
+coromandelianus",VU ,LC,r,3
+Red-crested Pochard ,Rhodonessa rufina ,LC,LC,w,3
+Common Pochard ,Aythya ferina ,VU ,NT ,w,3
+Ferruginous Duck ,Aythya nyroca ,VU ,LC,w,3
+Tufted duck ,Aythya fuligula ,LC,LC,w,3
+Garganey ,Anas querquedula ,VU ,LC,w,3
+Northern Shoveler ,Anas clypeata ,LC,LC,w,3
+Gadwall ,Anas strepera ,LC,LC,w,2
+Eurasian Wigeon ,Anas penelope ,LC,LC,w,3
+Indian Spot-billed Duck ,Anas poecilorhyncha ,NT ,LC,w,4
+Mallard ,Anas platyrhynchos ,LC,LC,w,2
+Northern Pintail ,Anas acuta ,EN ,LC,w,2
+Common Teal ,Anas crecca ,LC,LC,w,2
+Little Grebe ,Tachybaptus ruficollis ,LC,LC,w,3
+Great Crested Grebe ,Podiceps cristatus ,LC,LC,w,3
+Common Woodpigeon ,Columba palumbus ,LC,LC,v,1
+Oriental Turtle-dove ,"Streptopelia
+orientalis",LC,LC,r,2
+Eurasian Collared-dove ,Streptopelia decaocto ,LC,LC,r,1
+Red Turtle-dove ,"Streptopelia
+tranquebarica",LC,LC,r,1
+Western Spotted Dove ,Spilopelia suratensis ,LC,LC,r,1
+Laughing Dove ,"Spilopelia
+senegalensis",LC,LC,r,3
+"Grey-capped Emerald
+Dove",Chalcophaps indica ,LC,LC,r,2
+"Orange-breasted Green
+pigeon",Treron bicinctus ,LC,LC,r,3
+"Ashy-headed Green
+pigeon",Treron phayrei ,NT ,LC,r,2
+"Yellow-footed Green
+pigeon","Treron
+phoenicopterus",LC,LC,r,2
+Pin-tailed Green-pigeon ,Treron apicauda ,NT ,LC,r,3
+"Wedge-tailed Green
+pigeon",Treron sphenurus ,LC,LC,r,4
+Grey Nightjar ,Caprimulgus jotaka ,LC,LC,r,4
+Large-tailed Nightjar ,"Caprimulgus
+macrurus",NT ,LC,r,2
+Indian Nightjar ,Caprimulgus asiaticus ,EN ,LC,r,4
+Savanna Nightjar ,Caprimulgus affinis ,NT ,LC,r,2
+Crested Treeswift ,Hemiprocne coronata ,LC,LC,r,2
+White-rumped Spinetail ,Zoonavena sylvatica ,NT ,LC,r,2
+"White-throated
+Needletail","Hirundapus
+caudacutus",LC,LC,w,4
+Himalayan Swiftlet ,"Aerodramus
+brevirostris",LC,LC,w,3
+Asian Palm-swift ,Cypsiurus balasiensis ,LC,LC,r,2
+Alpine Swift ,Tachymarptis melba ,LC,LC,w,3
+House Swift ,Apus nipalensis ,LC,LC,r,1
+Greater Coucal ,Centropus sinensis ,LC,LC,r,1
+Lesser Coucal ,"Centropus
+bengalensis",LC,LC,r,2
+Sirkeer Malkoha ,"Taccocua
+leschenaultii",LC,LC,r,3
+Green-billed Malkoha ,"Phaenicophaeus
+tristis",LC,LC,r,3
+Jacobin Cuckoo ,Clamator jacobinus ,LC,LC,s,2
+Western Koel ,"Eudynamys
+scolopaceus",LC,LC,r,1
+Banded Bay Cuckoo ,"Cacomantis
+sonneratii",LC,LC,r,3
+Grey-bellied Cuckoo ,"Cacomantis
+passerinus",LC,LC,s,3
+"Fork -tailed Drongo
+Cuckoo",Surniculus lugubris ,LC,LC,s,3
+Whistling Hawk-cuckoo ,Hierococcyx nisicolor ,LC,LC,s,5
+Common Hawk-cuckoo ,Hierococcyx varius ,LC,LC,r,2
+Indian Cuckoo ,Cuculus micropterus ,LC,LC,s,1
+Common Cuckoo ,Cuculus canorus ,LC,LC,s,2
+Plaintive Cuckoo ,"Cacomantis
+merulinus",LC,LC,s,4
+Western Water Rail ,Rallus aquaticus ,CR ,LC,w,4
+Ruddy-breasted Crake ,Zapornia fusca ,LC,LC,r,2
+Brown Crake ,Zapornia akool ,LC,LC,r,2
+"White-breasted
+Waterhen","Amaurornis
+phoenicurus",LC,LC,r,1
+Watercock ,Gallicrex cinerea ,NT ,LC,s,3
+Purple Swamphen ,Porphyrio porphyrio ,LC,LC,s,2
+Common Moorhen ,Gallinula chloropus ,LC,LC,s,2
+Common Coot ,Fulica atra ,LC,LC,s,2
+Sarus Crane ,Antigone antigone ,VU ,VU ,r,4
+Demoiselle Crane ,Anthropoides virgo ,VU ,LC,v,2
+Common Crane ,Grus grus ,NT ,LC,v,2
+Bengal Florican ,"Houbaropsis
+bengalensis",CR ,CR ,r,5
+Lesser Florican ,Sypheotides indicus ,EN ,CR ,s,5
+Lesser Adjutant ,Leptoptilos javanicus ,VU ,VU ,r,2
+Painted Stork ,"Mycteria
+leucocephala",EN ,LC,r,4
+Asian Openbill ,Anastomus oscitans ,VU ,LC,r,1
+Black Stork ,Ciconia nigra ,VU ,LC,w,2
+Asian Woollyneck ,Ciconia episcopus ,VU ,NT ,r,3
+White Stork ,Ciconia ciconia ,LC,LC,v,2
+Black-necked Stork ,"Ephippiorhynchus
+asiaticus",CR ,LC,r,4
+"Black-crowned Night
+heron",Nycticorax nycticorax ,LC,LC,r,2
+Indian Pond Heron ,Ardeola grayii ,LC,LC,r,1
+Grey Heron ,Ardea cinerea ,LC,LC,w,2
+Purple Heron ,Ardea purpurea ,LC,LC,r,3
+Great White Egret ,Casmerodius albus ,LC,LC,r,1
+Intermediate Egret ,"Mesophoyx
+intermedia",LC,LC,r,1
+Little Cormorant ,Phalacrocorax niger ,LC,LC,r,1
+Great Cormorant ,"Phalacrocorax
+fusicollis",NT ,LC,w,1
+Indian Thick-knee ,Burhinus indicus ,LC,LC,r,2
+Great Thick-knee ,Esacus recurvirostris ,CR ,LC,r,4
+Pacific Golden Plover ,Pluvialis fulva ,NT ,LC,w,4
+Little Ringed Plover ,Charadrius dubius ,LC,LC,r,1
+Red-wattled Lapwing ,Vanellus indicus ,LC,LC,r,1
+Greater Painted-snipe ,"Rostratula
+benghalensis",LC,LC,r,4
+Eurasian Curlew ,Numenius arquata ,CR ,LC,w,4
+Little Stint ,Calidris minuta ,LC,LC,w,3
+Common Snipe ,Gallinago gallinago ,LC,LC,r,2
+Green Sandpiper ,Tringa ochropus ,LC,LC,w,1
+Common Redshank ,Tringa totanus ,LC,LC,w,2
+Wood Sandpiper ,Tringa glareola ,LC,LC,w,3
+Common Buttonquail ,Turnix sylvaticus ,NT ,LC,r,4
+Barred Buttonquail ,Turnix suscitator ,LC,LC,r,3
+Oriental Pratincole ,Glareola maldivarum ,NT ,LC,r,5
+Little Pratincole ,Glareola lactea ,NT ,LC,r,1
+Brown-headed Gull ,Larus brunnicephalus ,VU ,LC,w,3
+Black-headed Gull ,Larus ridibundus ,VU ,LC,w,3
+Pallas's Gull ,Larus ichthyaetus ,LC,LC,w,3
+Lesser Black-backed Gull ,Larus fuscus ,LC,LC,w,4
+Caspian Tern ,Hydroprogne caspia ,CR ,LC,w,4
+River Tern ,Sterna aurantia ,CR ,LC,r,4
+Black-bellied Tern ,Sterna acuticauda ,EN ,CR ,r,4
+Eastern Grass-owl ,Tyto longimembris ,CR ,LC,r,4
+Brown Boobook ,Ninox scutulata ,LC,LC,r,2
+Collared Owlet ,Glaucidium brodiei ,LC,LC,r,3
+Asian Barred Owlet ,"Glaucidium
+cuculoides",LC,LC,r,3
+Jungle Owlet ,Glaucidium radiatum ,LC,LC,r,1
+Spotted Owlet ,Athene brama ,LC,LC,r,1
+Collared Scops-owl ,Otus lettia ,LC,LC,r,3
+Oriental Scops-owl ,Otus sunia ,LC,LC,r,2
+Short-eared Owl ,Asio flammeus ,VU ,LC,w,4
+Brown Wood-owl ,Strix leptogrammica ,VU ,LC,r,4
+Mottled Wood Owl ,Strix ocellata ,LC,LC,r,4
+Rock Eagle-owl ,Bubo bengalensis ,VU ,LC,r,4
+Spot-bellied Eagle-owl ,Bubo nipalensis ,EN ,LC,r,4
+Dusky Eagle-owl ,Bubo coromandus ,CR ,LC,r,4
+Brown Fish-owl ,Ketupa zeylonensis ,VU ,LC,r,3
+Osprey ,Pandion haliaetus ,LC,LC,w,2
+Black-winged Kite ,Elanus caeruleus ,LC,LC,r,2
+Oriental Honey-buzzard ,Pernis ptilorhynchus ,LC,LC,r,2
+Black Baza ,Aviceda leuphotes ,NT ,LC,r,3
+Crested Serpent-eagle ,Spilornis cheela ,LC,LC,r,1
+Short-toed Snake-eagle ,Circaetus gallicus ,LC,LC,w,3
+Bearded Vulture ,Gypaetus barbatus ,VU ,LC,v,2
+Egyptian Vulture ,"Neophron
+percnopterus",EN ,VU ,r,3
+Red-headed Vulture ,Sarcogyps calvus ,CR ,EN ,r,3
+Himalayan Griffon ,Gyps himalayensis ,VU ,LC,w,2
+White-rumped Vulture ,Gyps bengalensis ,CR ,CR ,r,2
+Slender-billed Vulture ,Gyps tenuirostris ,CR ,CR ,r,3
+Cinereous Vulture ,Aegypius monachus ,EN ,LC,w,3
+Mountain Hawk Eagle ,Nisaetus nipalensis ,LC,LC,r,3
+Changeable Hawk Eagle ,Nisaetus cirrhatus ,LC,LC,r,2
+Rufous-bellied Eagle ,"Lophotriorchis
+kienerii",CR ,LC,r,4
+Black Eagle ,Ictinaetus malaiensis ,LC,LC,w,4
+Indian Spotted Eagle ,Clanga hastata ,VU ,VU ,r,3
+Greater Spotted Eagle ,Clanga clanga ,VU ,VU ,w,4
+Tawny Eagle ,Aquila rapax ,VU ,LC,w,5
+Steppe Eagle ,Aquila nipalensis ,EN ,VU ,w,3
+Eastern Imperial Eagle ,Aquila heliaca ,VU ,CR ,w,5
+Golden Eagle ,Aquila chrysaetos ,VU ,LC,w,5
+Bonelli's Eagle ,Aquila fasciata ,LC,LC,r,4
+Bootted Eagle ,Hieraaetus pennatus ,LC,LC,w,3
+Besra ,Accipiter virgatus ,LC,LC,r,3
+Eastern Marsh-harrier ,Circus spilonotus ,VU ,LC,W,3
+Hen Harrier ,Circus cyaneus ,VU ,LC,w,2
+Pallid Harrier ,Circus macrourus ,VU ,LC,w,4
+Pied Harrier ,Circus melanoleucos ,VU ,LC,w,4
+Eurasian Sparrowhawk ,Accipiter nisus ,LC,LC,r,3
+Northern Goshawk ,Accipiter gentilis ,LC,LC,r,4
+Pallas's Fish-eagle ,"Haliaeetus
+leucoryphus",EN ,CR ,w,4
+White-tailed Sea-eagle ,Haliaeetus albicilla ,CR ,LC,w,4
+Lesser Fish-eagle ,Icthyophaga humilis ,CR ,LC,r,5
+Grey-headed Fish-eagle ,"Icthyophaga
+ichthyaetus",CR ,LC,r,3
+Brahminy Kite ,Haliastur indus ,CR ,LC,r,4
+Black Kite ,Milvus migrans ,LC,LC,r,1
+White-eyed Buzzard ,Butastur teesa ,LC,LC,r,2
+Himalayan Buzzard ,Buteo refectus ,LC,LC,w,2
+Long-legged Buzzard ,Buteo rufinus ,LC,LC,w,4
+Great Hornbill ,Buceros bicornis ,VU ,EN ,r,3
+Indian Grey Hornbill ,Ocyceros birostris ,LC,LC,r,1
+Oriental Pied Hornbill ,"Anthracoceros
+albirostris",NT ,LC,r,1
+Common Hoopoe ,Upupa epops ,LC,LC,w,2
+Blue-bearded Bee-eater ,Nyctyornis athertoni ,LC,LC,r,3
+Asian Green Bee-eater ,Merops orientalis ,LC,LC,r,1
+"Chestnut-headed Bee
+eater",Merops leschenaulti ,LC,LC,s,1
+Blue-tailed Bee-eater ,Merops philippinus ,LC,LC,s,1
+Indian Roller ,"Coracias
+benghalensis",LC,LC,r,1
+Oriental Dollarbird ,Eurystomus orientalis ,LC,LC,s,1
+Blue-eared Kingfisher ,Alcedo meninting ,EN ,LC,r,3
+Common Kingfisher ,Alcedo atthis ,LC,LC,r,1
+Crested Kingfisher ,Megaceryle lugubris ,LC,LC,r,3
+Pied Kingfisher ,Ceryle rudis ,LC,LC,r,1
+Stork-billed Kingfisher ,Pelargopsis capensis ,LC,LC,r,2
+"White-breasted
+Kingfisher",Halcyon smyrnensis ,LC,LC,r,1
+Black-capped Kingfisher ,Halcyon pileata ,LC,LC,w,4
+Coppersmith Barbet ,"Psilopogon
+haemacephalus",LC,LC,r,2
+Great Barbet ,Psilopogon virens ,LC,LC,r,3
+Lineated Barbet ,Psilopogon lineatus ,LC,LC,r,3
+Brown-headed Barbet ,"Psilopogon
+zeylanicus",LC,LC,r,1
+Blue-throated Barbet ,Psilopogon asiaticus ,LC,LC,r,2
+Eurasian Wryneck ,Jynx torquilla ,LC,LC,w,3
+Speckled Piculet ,"Picumnus
+innominatus",LC,LC,r,3
+Greater Flameback ,"Chrysocolaptes
+guttacristatus",LC,LC,r,2
+"White-naped
+Woodpecker","Chrysocolaptes
+festivus",LC,LC,r,4
+Himalayan Flameback ,Dinopium shorii ,LC,LC,r,1
+Black-rumped Flameback ,"Dinopium
+benghalense",LC,LC,r,1
+Greater Yellownape ,"Chrysophlegma
+flavinucha",LC,LC,r,3
+Lesser Yellownape ,Picus chlorolophus ,LC,LC,r,3
+"Streak-throated
+Woodpecker",Picus xanthopygaeus ,LC,LC,r,2
+"Black-naped
+Woodpecker",Picus guerini ,LC,LC,r,2
+"Scaly-bellied
+Woodpecker",Picus squamatus ,LC,LC,r,4
+Great Slaty Woodpecker ,"Mulleripicus
+pulverulentus",VU ,EN ,r,3
+"Grey-capped
+Woodpecker",Picoides canicapillus ,LC,LC,r,3
+"Indian Pygmy
+Woodpecker",Picoides nanus ,LC,LC,r,2
+"Yellow-crowned
+Woodpecker","Leiopicus
+mahrattensis",LC,LC,r,2
+"Fulvous-breasted
+Woodpecker",Dendrocopos macei ,LC,LC,r,2
+Collared Falconet ,"Microhierax
+caerulescens",NT ,LC,r,2
+Common Kestrel ,Falco tinnunculus ,LC,LC,r,2
+Eurasian Hobby ,Falco subbuteo ,LC,LC,s,4
+Oriental Hobby ,Falco severus ,CR ,LC,s,5
+Laggar Falcon ,Falco jugger ,CR ,LC,w,5
+Peregrine Falcon ,Falco peregrinus ,I ,LC,r,2
+Slaty-headed Parakeet ,Psittacula himalayana ,LC,LC,r,3
+Plum-headed Parakeet ,"Psittacula
+cyanocephala",LC,LC,r,1
+Red-breasted Parakeet ,Psittacula alexandri ,VU ,LC,r,2
+Alexandrine Parakeet ,Psittacula eupatria ,NT ,LC,r,1
+Rose-ringed Parakeet ,Psittacula krameri ,LC,LC,r,1
+Indian Pitta ,Pitta brachyura ,LC,LC,s,2
+Western Hooded Pitta ,Pitta sordida ,VU ,LC,s,2
+Long-tailed Broadbill ,"Psarisomus
+dalhousiae",LC,LC,r,3
+Indian Golden Oriole ,Oriolus kundoo ,LC,LC,s,2
+Slender-billed Oriole ,Oriolus tenuirostris ,LC,LC,w,5
+"White-browed Shrike
+babbler",Pteruthius aeralatus ,LC,LC,r,4
+White-bellied Erpornis ,Erpornis zantholeuca ,LC,LC,r,2
+Small Minivet ,"Pericrocotus
+cinnamomeus",LC,LC,r,1
+Grey-chinned Minivet ,Pericrocotus solaris ,LC,LC,v,2
+Short-billed Minivet ,"Pericrocotus
+brevirostris",LC,LC,w,4
+Long-tailed Minivet ,"Pericrocotus
+ethologus",LC,LC,r,3
+Scarlet Minivet ,"Pericrocotus
+flammeus",LC,LC,w,1
+Rosy Minivet ,Pericrocotus roseus ,LC,LC,r,4
+Indian Cuckooshrike ,Coracina macei ,LC,LC,r,1
+"Black-winged
+Cuckooshrike",Lalage melaschistos ,LC,LC,r,2
+"Black-headed
+Cuckooshrike",Lalage melanoptera ,LC,LC,r,3
+Ashy Woodswallow ,Artamus fuscus ,LC,LC,r,1
+Common Iora ,Aegithina tiphia ,LC,LC,r,1
+White-throated Fantail ,Rhipidura albicollis ,LC,LC,r,1
+Black Drongo ,Dicrurus macrocercus ,LC,LC,r,1
+White-bellied Drongo ,Dicrurus caerulescens ,LC,LC,r,1
+Crow-billed Drongo ,Dicrurus annectens ,LC,LC,s,3
+Bronzed Drongo ,Dicrurus aeneus ,LC,LC,r,1
+Hair-crested Drongo ,Dicrurus hottentottus ,LC,LC,r,1
+"Greater Racquet-tailed
+Drongo",Dicrurus paradiseus ,LC,LC,r,2
+Black-naped Monarch ,Hypothymis azurea ,LC,LC,r,3
+"Indian Paradise
+flycatcher",Terpsiphone paradisi ,LC,LC,s,2
+Brown Shrike ,Lanius cristatus ,LC,LC,w,2
+Bay-backed Shrike ,Lanius vittatus ,LC,LC,r,3
+Long-tailed Shrike ,Lanius schach ,LC,LC,r,1
+Grey-backed Shrike ,Lanius tephronotus ,LC,LC,w,2
+Great Grey Shrike ,Lanius excubitor ,CR ,LC,r,5
+Rufous Treepie ,"Dendrocitta
+vagabunda",LC,LC,r,1
+Grey Treepie ,Dendrocitta formosae ,LC,LC,r,4
+Red-billed Blue Magpie ,"Urocissa
+erythroryncha",LC,LC,r,2
+Common Green Magpie ,Cissa chinensis ,LC,LC,r,3
+Black-headed Jay ,Garrulus lanceolatus ,LC,LC,w,5
+House Crow ,Corvus splendens ,LC,LC,r,1
+Large-billed Crow ,"Corvus
+macrorhynchos",LC,LC,r,1
+"Grey-headed Canary
+flycatcher","Culicicapa
+ceylonensis",LC,LC,w,1
+Sultan Tit ,"Melanochlora
+sultanea",EN ,LC,r,5
+Green-backed Tit ,Parus monticolus ,LC,LC,r,3
+Great Tit ,Parus major ,LC,LC,r,1
+Black-lored Tit ,"Machlolophus
+xanthogenys",LC,LC,r,3
+"Ashy-crowned Sparrow
+lark",Eremopterix griseus ,LC,LC,r,2
+Bengal Bushlark ,Mirafra assamica ,LC,LC,r,2
+Sand Lark ,Alaudala raytal ,LC,LC,r,1
+Eastern short-toed Lark ,"Calandrella
+dukhunensis",LC,LC,w,3
+Oriental Skylark ,Alauda gulgula ,LC,LC,r,1
+Crested Lark ,Galerida cristata ,NT ,LC,r,3
+Zitting Cisticola ,Cisticola juncidis ,LC,LC,r,1
+Golden-headed Cisticola ,Cisticola exilis ,NT ,LC,r,2
+Striated Prinia ,Prinia crinigera ,LC,LC,r,3
+Grey-crowned Prinia ,Prinia cinereocapilla ,VU ,CR ,r,5
+Grey-breasted Prinia ,Prinia hodgsonii ,LC,LC,r,1
+Graceful Prinia ,Prinia gracilis ,LC,LC,r,3
+Jungle Prinia ,Prinia sylvatica ,LC,LC,r,3
+Yellow-bellied Prinia ,Prinia flaviventris ,NT ,LC,r,2
+Ashy Prinia ,Prinia socialis ,LC,LC,r,2
+Plain Prinia ,Prinia inornata ,LC,LC,r,1
+Common Tailorbird ,Orthotomus sutorius ,LC,LC,r,1
+Thick-billed Warbler ,Arundinax aedon ,LC,LC,w,2
+Blyth's Reed-warbler ,"Acrocephalus
+dumetorum",LC,LC,w,2
+Paddyfield Warbler ,Acrocephalus agricola ,LC,LC,w,4
+Clamorous Reed-warbler ,"Acrocephalus
+stentoreus",NT ,LC,r,2
+Pygmy Cupwing ,Pnoepyga albiventer ,LC,LC,w,4
+Striated Grassbird ,Megalurus palustris ,CR ,LC,r,3
+Bristled Grassbird ,Chaetornis striata ,VU ,VU ,r,3
+Nepal House Martin ,Delichon nipalense ,LC,LC,w,4
+Northern House Martin ,Delichon urbicum ,LC,LC,w,4
+Wire-tailed Swallow ,Hirundo smithii ,LC,LC,r,2
+Asian Plain Martin ,Riparia chinensis ,NT ,LC,r,1
+Barn Swallow ,Hirundo rustica ,LC,LC,r,1
+Red-rumped Swallow ,Cecropis daurica ,LC,LC,w,3
+Collared Sand Martin ,Riparia riparia ,LC,LC,r,3
+Pale Sand Martin ,Riparia diluta ,LC,LC,r,4
+Ashy Bulbul ,Hemixos flavala ,LC,LC,r,4
+Black Bulbul ,"Hypsipetes
+leucocephalus",LC,LC,r,1
+Striated Bulbul ,Pycnonotus striatus ,LC,LC,r,4
+Black-crested Bulbul ,"Pycnonotus
+flaviventris",LC,LC,r,3
+Red-whiskered Bulbul ,Pycnonotus jocosus ,LC,LC,r,1
+Himalayan Bulbul ,"Pycnonotus
+leucogenys",LC,LC,r,2
+Red-vented Bulbul ,Pycnonotus cafer ,LC,LC,r,1
+Yellow-browed Warbler ,"Phylloscopus
+inornatus",LC,LC,w,4
+Hume's Leaf-warbler ,Phylloscopus humei ,LC,LC,w,1
+"Lemon-rumped Leaf
+warbler","Phylloscopus
+chloronotus",LC,LC,w,2
+Buff-barred Warbler ,Phylloscopus pulcher ,LC,LC,w,3
+Ashy-throated Warbler ,"Phylloscopus
+maculipennis",LC,LC,w,3
+Dusky Warbler ,"Phylloscopus
+fuscatus",LC,LC,w,2
+Smoky Warbler ,"Phylloscopus
+fuligiventer",LC,LC,w,3
+Siberian Chiffchaff ,"Phylloscopus
+collybita",LC,LC,w,2
+Tickell's Leaf-warbler ,Phylloscopus affinis ,LC,LC,w,2
+Grey-cheeked Warbler ,"Phylloscopus
+poliogenys",NT ,LC,w,5
+Green-crowned Warbler ,Phylloscopus burkii ,LC,LC,w,3
+"Chestnut-crowned
+Warbler","Phylloscopus
+castaniceps",LC,LC,w,4
+Greenish Warbler ,"Phylloscopus
+trochiloides",LC,LC,w,1
+Large-billed Leaf-warbler ,"Phylloscopus
+magnirostris",LC,LC,s,4
+Yellow-vented Warbler ,Phylloscopus cantator ,EN ,LC,w,4
+Blyth's Leaf-warbler ,"Phylloscopus
+reguloides",LC,LC,w,1
+"Western Crowned Leaf
+warbler","Phylloscopus
+occipitalis",LC,LC,w,3
+Grey-hooded Warbler ,"Phylloscopus
+xanthoschistos",LC,LC,r,2
+Grey-bellied Tesia ,Tesia cyaniventer ,LC,LC,w,4
+Chestnut-headed Tesia ,"Cettia
+castaneocoronata",LC,LC,w,4
+Grey-sided Bush-warbler ,Cettia brunnifrons ,LC,LC,w,2
+Pale-footed Bush-warbler ,Hemitesia pallidipes ,VU ,LC,w,5
+"Brownish-flanked Bush
+warbler",Horornis fortipes ,LC,LC,w,4
+Aberrant Bush-warbler ,"Horornis
+flavolivaceus",LC,LC,w,2
+White-throated Tit ,"Aegithalos
+niveogularis",LC,LC,v,2
+Red-headed Tit ,Aegithalos iredalei ,LC,LC,r,3
+Lesser Whitethroat ,Sylvia curruca ,LC,LC,w,4
+Eastern Orphean Warbler ,Sylvia crassirostris ,LC,LC,v,2
+Yellow-eyed Babbler ,Chrysomma sinense ,NT ,LC,r,2
+Oriental White-eye ,"Zosterops
+palpebrosus",LC,LC,r,1
+"White-browed Scimitar
+babbler","Pomatorhinus
+schisticeps",LC,LC,r,2
+"Rusty-cheeked Scimitar
+babbler","Erythrogenys
+erythrogenys",LC,LC,r,3
+Grey-throated Babbler ,Stachyris nigriceps ,LC,LC,r,4
+Tawny-bellied Babbler ,Dumetia hyperythra ,EN ,LC,r,3
+"Chestnut-capped
+Babbler",Timalia pileata ,NT ,LC,r,1
+Pin-striped Tit-babbler ,Mixornis gularis ,LC,LC,r,1
+Black-chinned Babbler ,"Cyanoderma
+pyrrhops",LC,LC,r,3
+Puff-throated Babbler ,Pellorneum ruficeps ,LC,LC,r,1
+Abbott's Babbler ,Malacocincla abbotti ,EN ,LC,r,3
+Indian Grass-babbler ,"Graminicola
+bengalensis",EN ,LC,r,2
+Striated Babbler ,Argya earlei ,LC,LC,r,1
+Spiny Babbler ,"Acanthoptila
+nipalensis",LC,LC,r,4
+Jungle Babbler ,Turdoides striata ,LC,LC,r,1
+Large Grey Babbler ,Argya malcolmi ,LC,LC,r,3
+"White-crested
+Laughingthrush",Garrulax leucolophus ,LC,LC,r,3
+"White-throated
+Laughingthrush",Garrulax albogularis ,LC,LC,r,3
+Silver-eared Mesia ,Leiothrix argentauris ,EN ,LC,r,3
+Rufous Sibia ,"Heterophasia
+capistrata",LC,LC,w,3
+"Rusty-flanked
+Treecreeper",Certhia nipalensis ,LC,LC,w,4
+Bar-tailed Treecreeper ,Certhia himalayana ,LC,LC,w,5
+"Chestnut-bellied
+Nuthatch",Sitta cinnamoventris ,LC,LC,r,1
+White-tailed Nuthatch ,Sitta himalayensis ,LC,LC,r,4
+Velvet-fronted Nuthatch ,Sitta frontalis ,LC,LC,r,2
+Wallcreeper ,Tichodroma muraria ,LC,LC,w,4
+Brown Dipper ,Cinclus pallasii ,LC,LC,w,3
+Common Starling ,Sturnus vulgaris ,LC,LC,w,3
+Rosy Starling ,Pastor roseus ,LC,LC,w,4
+Asian Pied Starling ,Gracupica contra ,LC,LC,r,1
+Brahminy Starling ,Sturnia pagodarum ,LC,LC,r,3
+Chestnut-tailed Starling ,Sturnia malabarica ,LC,LC,r,1
+Common Myna ,Acridotheres tristis ,LC,LC,r,1
+Bank Myna ,"Acridotheres
+ginginianus",LC,LC,r,2
+Jungle Myna ,Acridotheres fuscus ,LC,LC,r,1
+Spot-winged Starling ,"Saroglossa
+spilopterus",LC,LC,s,3
+Common Hill Myna ,Gracula religiosa ,LC,LC,r,2
+Scaly Thrush ,Zoothera dauma ,LC,LC,W,3
+Long-billed Thrush ,Zoothera monticola ,LC,LC,W,4
+Orange-headed Thrush ,Geokichla citrina ,LC,LC,r,3
+Mistle Thrush ,Turdus viscivorus ,LC,LC,w,4
+Grey-winged Blackbird ,Turdus boulboul ,LC,LC,w,3
+Tickell's Thrush ,Turdus unicolor ,LC,LC,w,4
+Tibetan Blackbird ,Turdus maximus ,LC,LC,w,5
+White-collared Blackbird ,Turdus albocinctus ,LC,LC,w,4
+Black-throated Thrush ,Turdus atrogularis ,LC,LC,w,1
+Rufous-throated Thrush ,Turdus ruficollis ,LC,LC,w,3
+Oriental Magpie Robin ,Copsychus saularis ,LC,LC,r,1
+Indian Robin ,Saxicoloides fulicatus ,LC,LC,r,2
+White-rumped Shama ,Kittacincla malabarica ,LC,LC,r,2
+Dark-sided Flycatcher ,Muscicapa sibirica ,LC,LC,w,2
+Asian Brown Flycatcher ,Muscicapa dauurica ,LC,LC,w,4
+Rufous-bellied Niltava ,Niltava sundara ,LC,LC,w,3
+Small Niltava ,Niltava macgrigoriae ,LC,LC,w,3
+Large Niltava ,Niltava grandis ,NT ,LC,r,5
+Verditer Flycatcher ,Eumyias thalassinus ,LC,LC,w,2
+Pale Blue-flycatcher ,Cyornis unicolor ,LC,LC,r,4
+Pale-chinned Flycatcher ,Cyornis poliogenys ,LC,LC,r,2
+Tickell's Blue-flycatcher ,Cyornis tickelliae ,LC,LC,r,3
+"Blue-throated Blue
+flycatcher",Cyornis rubeculoides ,LC,LC,s,3
+Lesser Shortwing ,"Brachypteryx
+leucophris",LC,LC,w,5
+Himalayan Shortwing ,Brachypteryx cruralis ,LC,LC,w,5
+White-bellied Redstart ,"Hodgsonius
+phaenicuroides",LC,LC,w,5
+Bluethroat ,Cyanecula svecica ,LC,LC,w,2
+Siberian Rubythroat ,Calliope calliope ,LC,LC,w,3
+Himalayan Rubythroat ,Calliope pectoralis ,LC,LC,w,3
+White-tailed Blue Robin ,Myiomela leucura ,LC,LC,w,3
+Little Forktail ,Enicurus scouleri ,LC,LC,r,3
+Slaty-backed Forktail ,Enicurus schistaceus ,LC,LC,r,3
+Black-backed Forktail ,Enicurus immaculatus ,LC,LC,r,2
+Blue Whistling-thrush ,Myophonus caeruleus ,LC,LC,r,2
+Slaty-backed Flycatcher ,Ficedula erithacus ,NT ,LC,r,4
+Slaty-blue Flycatcher ,Ficedula tricolor ,LC,LC,r,2
+"Snowy-browed
+Flycatcher",Ficedula hyperythra ,LC,LC,w,3
+"Rufous-gorgeted
+Flycatcher",Ficedula strophiata ,LC,LC,w,3
+Ultramarine Flycatcher ,Ficedula superciliaris ,LC,LC,w,4
+Little Pied Flycatcher ,Ficedula westermanni ,LC,LC,r,3
+Red-throated Flycatcher ,Ficedula albicilla ,LC,LC,r,1
+Blue-fronted Redstart ,Phoenicurus frontalis ,LC,LC,w,4
+"White-capped Water
+redstart","Phoenicurus
+leucocephalus",LC,LC,r,2
+"Plumbeous Water
+redstart","Phoenicurus
+fuliginosus",LC,LC,r,2
+Black Redstart ,Phoenicurus ochruros ,LC,LC,w,2
+Hodgson's Redstart ,"Phoenicurus
+hodgsoni",LC,LC,w,4
+Blue-capped Rock-thrush ,"Monticola
+cinclorhyncha",LC,LC,s,3
+"Chestnut-bellied Rock
+thrush",Monticola rufiventris ,LC,LC,w,4
+White-tailed Stonechat ,Saxicola leucurus ,NT ,LC,r,1
+Blue Rock-thrush ,Monticola solitarius ,LC,LC,w,3
+Jerdon's Bushchat ,Saxicola jerdoni ,CR ,LC,r,4
+Grey Bushchat ,Saxicola ferreus ,LC,LC,w,3
+White-throated Bushchat ,Saxicola insignis ,VU ,EN ,w,5
+Pied Bushchat ,Saxicola caprata ,LC,LC,r,1
+Common Stonechat ,Saxicola torquatus ,LC,LC,r,1
+Red-tailed Wheatear ,"Oenanthe
+chrysopygia",LC,LC,v,2
+Desert Wheatear ,Oenanthe deserti ,LC,LC,w,4
+Brown Rockchat ,Oenanthe fusca ,LC,LC,w,3
+Golden-fronted Leafbird ,Chloropsis aurifrons ,LC,LC,r,2
+Orange-bellied Leafbird ,Chloropsis hardwickii ,LC,LC,r,2
+"Thick-billed
+Flowerpecker",Dicaeum agile ,LC,LC,r,2
+Pale-billed Flowerpecker ,"Dicaeum
+erythrorhynchos",LC,LC,r,3
+"Fire-breasted
+Flowerpecker",Dicaeum ignipectus ,LC,LC,r,3
+Little Spiderhunter ,"Arachnothera
+longirostra",LC,LC,r,5
+Streaked Spiderhunter ,Arachnothera magna ,LC,LC,r,3
+Ruby-cheeked Sunbird ,"Chalcoparia
+singalensis",LC,LC,r,3
+Purple Sunbird ,Cinnyris asiaticus ,LC,LC,r,1
+Fire-tailed Sunbird ,Aethopyga ignicauda ,LC,LC,r,4
+Green-tailed Sunbird ,Aethopyga nipalensis ,LC,LC,r,3
+Crimson Sunbird ,Aethopyga siparaja ,LC,LC,r,2
+Black-breasted Weaver ,Ploceus benghalensis ,VU ,LC,r,3
+Baya Weaver ,Ploceus philippinus ,NT ,LC,r,1
+Red Avadavat ,Amandava amandava ,NT ,LC,r,2
+Indian Silverbill ,Euodice malabarica ,LC,LC,r,3
+White-rumped Munia ,Lonchura striata ,LC,LC,r,3
+Scaly-breasted Munia ,Lonchura punctulata ,LC,LC,r,1
+Tricoloured Munia ,Lonchura malacca ,LC,LC,r,3
+House Sparrow ,Passer domesticus ,LC,LC,r,1
+Eurasian Tree Sparrow ,Passer montanus ,LC,LC,r,3
+"Chestnut-shouldered
+Bush-sparrow","Gymnoris
+xanthocollis",LC,LC,r,1
+Tree Pipit ,Anthus trivialis ,LC,LC,w,3
+Olive-backed Pipit ,Anthus hodgsoni ,LC,LC,w,1
+Rosy Pipit ,Anthus roseatus ,LC,LC,w,1
+Water Pipit ,Anthus spinoletta ,LC,LC,w,4
+Richard's Pipit ,Anthus richardi ,LC,LC,r,2
+Paddyfield Pipit ,Anthus rufulus ,LC,LC,r,1
+Western Yellow Wagtail ,Motacilla flava ,LC,LC,w,2
+Grey Wagtail ,Motacilla cinerea ,LC,LC,w,3
+Citrine Wagtail ,Motacilla citreola ,LC,LC,w,1
+White-browed Wagtail ,"Motacilla
+maderaspatensis",LC,LC,r,1
+White Wagtail ,Motacilla alba ,LC,LC,w,1
+Forest Wagtail ,"Dendronanthus
+indicus",LC,LC,v,2
+Common Rosefinch ,"Carpodacus
+erythrinus",LC,LC,w,2
+Blanford's Rosefinch ,"Agraphospiza
+rubescens",LC,LC,w,5
+"Yellow-breasted
+Greenfinch",Chloris spinoides ,LC,LC,w,3
+Eastern Goldfinch ,Carduelis carduelis ,LC,LC,w,5
+Crested Bunting ,Emberiza lathami ,LC,LC,w,2
+Black-headed Bunting ,"Emberiza
+melanocephala",VU ,LC,w,4
+Yellow-breasted Bunting ,Emberiza aureola ,CR ,CR ,w,3
+Little Bunting ,Emberiza pusilla ,VU ,LC,w,4
+Black-faced Bunting ,"Emberiza
+spodocephala",VU ,LC,w,3
